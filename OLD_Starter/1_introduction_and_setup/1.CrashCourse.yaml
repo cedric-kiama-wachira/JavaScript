@@ -1,0 +1,9 @@
+#Channel Name
+https://www.youtube.com/watch?v=g7T23Xzys-A&ab_channel=JavaScriptMastery
+
+Workflow Steps
+1. Open an empty folder
+2. create index.html(html5) and script.js
+3. in the body of html add the <string> directive and point the src=script.js on the opening directive
+4. in the script.js add the console.log("Hello World!");
+5. 
